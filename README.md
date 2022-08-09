@@ -1,4 +1,4 @@
 # Kotlin-ZeroToHero
-Belajar Kotlin dari dasar sampai mahir menggunakan platform PZN di Udemy
+Belajar Kotlin dari Dasar sampai Mahir
 
 *File ada di bagian src/main
